@@ -2,7 +2,7 @@
 layout: post
 title: Retrospect and prospect
 subtitle: Hilary Term 2017 wrap-up and plans for Trinity Term 2017
-tags: [instructor training, Software Carpentry, Data Carpentry]
+tags: [workshops, instructor training, Software Carpentry, Data Carpentry]
 ---
 
 We had a busy Hilary Term 2017, and we are now gearing up for new
