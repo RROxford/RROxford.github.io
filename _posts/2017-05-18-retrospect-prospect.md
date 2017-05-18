@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retrospect and prospect
-subtitle: Hilary Term 2017 wrap-up and plans for Trinity Term 2017 and beyond
+subtitle: Hilary Term 2017 wrap-up and plans for Trinity Term 2017
 tags: [instructor training, Software Carpentry, Data Carpentry]
 ---
 
@@ -25,7 +25,7 @@ days of intensive training for teaching. This is part of our effort to
 build local capacity in the area of effective computing for
 reproducibility. The trainee instructors join a small cohort of
 instructors already based at Oxford, and they will be able to deliver
-training on future workshops.
+training at future workshops.
 
 We are now planning a series of workshops for the coming months ---
 as usual, check our [events](events.md) page, subscribe to our [mailing
