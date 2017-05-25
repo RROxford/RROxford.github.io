@@ -24,7 +24,8 @@ register.
 #### Long Vacation | Trinity Term 2017
 
 Session at the [Digital Humanities at Oxford Summer
-School](http://www.dhoxss.net/). Details TBD.
+School](http://www.dhoxss.net/) on 5 July covering git and Python. 
+[https://rroxford.github.io/2017-03-02-dhoxss-session-announcement/](https://rroxford.github.io/2017-03-02-dhoxss-session-announcement/)
 
 ## Past events
 
