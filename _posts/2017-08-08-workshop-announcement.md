@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workshop announcement
-subtitle: September 2017 Data Carpentry workshop
+subtitle: Registration open for September 2017 Data Carpentry workshop
 tags: [workshop, Data Carpentry]
 ---
 
