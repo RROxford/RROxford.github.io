@@ -5,15 +5,16 @@ subtitle: Session at Digital Humanities Oxford Summer School
 tags: [workshop, Data Carpentry]
 ---
 
-We are please to announce that we will be running a session on Reproducible Research
-at the annual [Digital Humanities Oxford Summer School](http://www.dhoxss.net). 
+We are pleased to announce that we will be running a "taster" session
+on reproducible research in the humanities at the annual
+[Digital Humanities Oxford Summer School](http://www.dhoxss.net). The
+session will be part of the *Introduction to Digitial Humanities
+strand*, and it will take place on July 5, 2017.
 
-A session on Reproducible Research in the Humanities will be part of the An Introduction 
-to Digitial Humanities strand. It will take place Wednesday July 5th at 11:00 to 12:30.  
-
-The material will cover git with some Python, developed from Data and Software Carpentry material. 
+The material will cover git with some python, developed from relevant
+Software and Data Carpentry material.
 
 Related Links:
 
 *  [Digital Humanities Oxford Summer School](http://www.dhoxss.net)
-*  Material for Reproducible Research in the Humanities
+*  [Material for reproducible research in the humanities](https://github.com/iaine/ReproResOxford)
