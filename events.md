@@ -25,25 +25,25 @@ register.
 Software Carpentry workshop covering bash, git, R.  
 Details coming soon! Subscribe to our <a
 href="https://web.maillist.ox.ac.uk/ox/info/rroxford"
-target="_blank">mailing list</a> and follow us on Twitter <a
-href="https://twitter.com/RR_Oxford" target="_blank">@RR_Oxford</a>.
+target="_blank">mailing list</a> to be notified once registration
+opens.
 
 ### Data Carpentry workshop | September 26--27, 2017
 #### Long Vacation | Trinity Term 2017
 
-Data Carpentry workshop (pilot curriculum for digital humanities)  
-covering spreadsheets, OpenRefine, SQL, python.  
+Data Carpentry workshop covering spreadsheets, OpenRefine, SQL, python  
+(pilot curriculum for digital humanities).  
 [https://rroxford.github.io/2017-09-26-oxford/](https://rroxford.github.io/2017-09-26-oxford/)  
 
 ## Past events
 
 This is what we have been up to so far.
 
-### Digital humanities session | July 3--7, 2017
+### Digital humanities session | July 5, 2017
 #### Long Vacation | Trinity Term 2017
 
 Session at the [Digital Humanities at Oxford Summer
-School](http://www.dhoxss.net/) on 5 July covering git and Python.   
+School](http://www.dhoxss.net/) on covering git, python.   
 [https://github.com/iaine/ReproResOxford](https://github.com/iaine/ReproResOxford)
 
 ### Instructor training | March 16--17, 2017
