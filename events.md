@@ -21,12 +21,12 @@ register.
 
 ### Software Carpentry workshop | October 12--13, 2017
 #### Week 1 | Michaelmas Term 2017
-
 Software Carpentry workshop covering bash, git, R.  
-Details coming soon! Subscribe to our <a
-href="https://web.maillist.ox.ac.uk/ox/info/rroxford"
-target="_blank">mailing list</a> to be notified once registration
-opens.
+[https://kpoterlowicz.github.io/2017-10-12-oxford-swc/](https://kpoterlowicz.github.io/2017-10-12-oxford-swc/)  
+
+## Past events
+
+This is what we have been up to so far.
 
 ### Data Carpentry workshop | September 26--27, 2017
 #### Long Vacation | Trinity Term 2017
@@ -34,10 +34,6 @@ opens.
 Data Carpentry workshop covering spreadsheets, OpenRefine, SQL, python  
 (pilot curriculum for digital humanities).  
 [https://rroxford.github.io/2017-09-26-oxford/](https://rroxford.github.io/2017-09-26-oxford/)  
-
-## Past events
-
-This is what we have been up to so far.
 
 ### Digital humanities session | July 5, 2017
 #### Long Vacation | Trinity Term 2017
