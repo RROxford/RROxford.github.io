@@ -11,22 +11,31 @@ target="_blank">mailing list</a> and follow us on Twitter <a
 href="https://twitter.com/RR_Oxford" target="_blank">@RR_Oxford</a>.
 
 If you are interested in running a Software/Data Carpenty workshop for
-your research group or department, then we may be able to help! Do
-[get in touch](contact.md) to discuss.
+your research group or department, we may be able to help! Do [get in
+touch](contact.md) to discuss.
 
 ## Future events
 
+More workshops coming soon in 2018!
+
+<!---
 See the event websites for details, including information on how to
 register.
+-->
+
+## Past events
+
+This is what we have been up to so far.
+
+### Software Carpentry workshop | January 9--10, 2018
+#### Week 0 | Hilary Term 2018
+Software Carpentry workshop covering bash, git, R.  
+[https://rroxford.github.io/2018-01-09-oxford/](https://rroxford.github.io/2018-01-09-oxford/])  
 
 ### Software Carpentry workshop | October 12--13, 2017
 #### Week 1 | Michaelmas Term 2017
 Software Carpentry workshop covering bash, git, R.  
 [https://rroxford.github.io/2017-10-12-oxford/](https://rroxford.github.io/2017-10-12-oxford/])  
-
-## Past events
-
-This is what we have been up to so far.
 
 ### Data Carpentry workshop | September 26--27, 2017
 #### Long Vacation | Trinity Term 2017
