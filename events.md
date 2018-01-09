@@ -30,7 +30,7 @@ This is what we have been up to so far.
 ### Software Carpentry workshop | January 9--10, 2018
 #### Week 0 | Hilary Term 2018
 Software Carpentry workshop covering bash, git, R.  
-[https://rroxford.github.io/2018-01-09-oxford/](https://rroxford.github.io/2018-01-09-oxford/])  
+[https://rroxford.github.io/2018-01-09-oxford/](https://rroxford.github.io/2018-01-09-oxford/)  
 
 ### Software Carpentry workshop | October 12--13, 2017
 #### Week 1 | Michaelmas Term 2017
