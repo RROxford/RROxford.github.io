@@ -35,7 +35,7 @@ Software Carpentry workshop covering bash, git, R.
 ### Software Carpentry workshop | October 12--13, 2017
 #### Week 1 | Michaelmas Term 2017
 Software Carpentry workshop covering bash, git, R.  
-[https://rroxford.github.io/2017-10-12-oxford/](https://rroxford.github.io/2017-10-12-oxford/])  
+[https://rroxford.github.io/2017-10-12-oxford/](https://rroxford.github.io/2017-10-12-oxford/)  
 
 ### Data Carpentry workshop | September 26--27, 2017
 #### Long Vacation | Trinity Term 2017
