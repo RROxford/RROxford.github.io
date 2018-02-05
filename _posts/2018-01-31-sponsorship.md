@@ -12,8 +12,8 @@ href="http://datacarpentry.org/" target="_blank">Data Carpentry</a>
 workshop --- the first to be held in Oxford! --- and we have hosted
 the first Oxford-based Software/Data Carpentry <a
 href="https://steve-crouch.github.io/2017-03-16-oxford-ttt/"
-target="_blank">instructor training</a>. Details are on our
-[events](../events.md) page. So far, we have provided training to
+target="_blank">instructor training</a>. Details are on our <a
+href="../events">events</a> page. So far, we have provided training to
 upwards of 100 learners from across the University who attended our
 workshops, in addition to 11 Oxford-based trainee instructors.
 
@@ -39,8 +39,8 @@ help consolidate the local capacity built over the first year of the
 project, ensuring that activities are self-sustaining in the future.
 
 We are now planning a series of workshops for the coming months, and
-coordinating instructor training --- as usual, check our
-[events](../events.md) page, subscribe to our [mailing
+coordinating instructor training --- as usual, check our <a
+href="../events">events</a> page, subscribe to our [mailing
 list](https://web.maillist.ox.ac.uk/ox/info/rroxford), and follow us
 on Twitter [@RR_Oxford](https://twitter.com/RR_Oxford) for
 announcements!
