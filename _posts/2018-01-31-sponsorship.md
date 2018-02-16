@@ -5,7 +5,7 @@ subtitle: 2017 wrap-up and plans for 2018
 tags: [workshops, instructor training, Software Carpentry, Data Carpentry]
 ---
 
-It's been a busy year since we launched the project in October 2017!
+It's been a busy year since we launched the project in October 2016!
 So far, we have ran four <a href="https://software-carpentry.org/"
 target="_blank">Software Carpentry</a> workshops, one <a
 href="http://datacarpentry.org/" target="_blank">Data Carpentry</a>
@@ -15,7 +15,7 @@ href="https://steve-crouch.github.io/2017-03-16-oxford-ttt/"
 target="_blank">instructor training</a>. Details are on our <a
 href="../events">events</a> page. So far, we have provided training to
 upwards of 100 learners from across the University who attended our
-workshops, in addition to 11 Oxford-based trainee instructors.
+workshops, in addition to 12 Oxford-based trainee instructors.
 
 And we have some exciting news to share! <a
 href="http://www.elixir-uk.org/" target="_blank">ELIXIR-UK</a>, the UK
