@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reproducibility Tuesdays are here!
-subtitle: Events related to reproducibility and open research in Trinity Term 2018
+subtitle: Events related to reproducibility in Trinity Term 2018
 tags: [events]
 ---
 
@@ -19,7 +19,7 @@ href="https://www.psy.ox.ac.uk/" target="_blank">Department of
 Experimental Psychology</a>, Tuesdays 13:00--14:00. We are very happy
 to sponsor this initiative!
 
-![2018_TT-journal-club](../img/2018_TT-journal-club.pdf)
+![2018_TT-journal-club](../img/2018_TT-journal-club.jpg)
 
 The second event is the <a
 href="http://users.ox.ac.uk/~phys1213/ReproAtASC.html"
