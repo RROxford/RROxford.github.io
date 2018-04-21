@@ -17,7 +17,7 @@ For announcements about future workshops and related activities, check
 our [events](events.md) page, subscribe to our
 [mailing list](https://web.maillist.ox.ac.uk/ox/info/rroxford), and
 follow us on Twitter
-[@RR_Oxford](https://twitter.com/RR_Oxford). Email <a
-href="./laura-fortunato">Laura Fortunato</a> at <a
+[@RR_Oxford](https://twitter.com/RR_Oxford). Email
+[Laura Fortunato](laura-fortunato.md) at <a
 href="mailto:ReproducibleResearchOxford@gmail.com">ReproducibleResearchOxford@gmail.com</a>
 to get in touch.
