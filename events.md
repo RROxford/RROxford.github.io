@@ -26,7 +26,10 @@ to register. -->
 #### Week 5 | Trinity Term 2018
 
 <a href="https://carpentries.org/"
-target="_blank">Carpentries</a> instructor training. Limited places available --- submit your [expression of interest](./_posts/2018-04-21_instructor-training.md) by April 25, 2018.  
+target="_blank">Carpentries</a> instructor training.
+[https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
+
+Limited places available --- submit your [expression of interest](../_posts/2018-04-21_instructor-training.md) by April 25, 2018.  
 
 ## Past events
 
