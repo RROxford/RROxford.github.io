@@ -14,8 +14,10 @@ your research group or department? Then get in touch to discuss how we
 may be able to help.
 
 For announcements about future workshops and related activities, check
-our [events](events.md) page, subscribe to our [mailing
-list](https://web.maillist.ox.ac.uk/ox/info/rroxford), and follow us
-on Twitter [@RR_Oxford](https://twitter.com/RR_Oxford). Email us at <a
+our [events](events.md) page, subscribe to our
+[mailing list](https://web.maillist.ox.ac.uk/ox/info/rroxford), and
+follow us on Twitter
+[@RR_Oxford](https://twitter.com/RR_Oxford). Email <a
+href="./laura-fortunato">Laura Fortunato</a> at <a
 href="mailto:ReproducibleResearchOxford@gmail.com">ReproducibleResearchOxford@gmail.com</a>
 to get in touch.
