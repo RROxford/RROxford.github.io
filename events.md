@@ -29,7 +29,7 @@ to register. -->
 target="_blank">Carpentries</a> instructor training.  
 [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)  
 
-Limited places available --- submit your [expression of interest](_posts/2018-04-21_instructor-training.md) by April 25, 2018.  
+Limited places available --- submit your [expression of interest](./_posts/2018-04-21-instructor-training.md) by April 25, 2018.  
 
 ## Past events
 
