@@ -10,18 +10,23 @@ href="https://web.maillist.ox.ac.uk/ox/info/rroxford"
 target="_blank">mailing list</a> and follow us on Twitter <a
 href="https://twitter.com/RR_Oxford" target="_blank">@RR_Oxford</a>.
 
-If you are interested in running a Software/Data Carpenty workshop for
-your research group or department, we may be able to help! Do [get in
-touch](contact.md) to discuss.
+If you are interested in running a <a href="https://carpentries.org/"
+target="_blank">Carpentries</a> workshop for your research group or
+department, we may be able to help! Do [get in touch](contact.md) to
+discuss.
 
 ## Future events
 
-More workshops coming soon in 2018!
+<!--- More workshops coming soon in 2018! -->
 
-<!---
-See the event websites for details, including information on how to
-register.
--->
+<!--- See the event websites for details, including information on how
+to register. -->
+
+### Instructor training | May 24--25, 2018
+#### Week 5 | Trinity Term 2018
+
+<a href="https://carpentries.org/"
+target="_blank">Carpentries</a> instructor training. Limited places available --- submit your [expression of interest](./_posts/2018-04-21_instructor-training.md) by April 25, 2018.  
 
 ## Past events
 
