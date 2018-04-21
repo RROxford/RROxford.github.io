@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Instructor training announcement
-subtitle: Carpentries instructor training planned for May 2018
-tags: [Carpentries instructor training]
+subtitle: Carpentries instructor training planned for May 2018!
+tags: [instructor training, Software Carpentry, Data Carpentry, Carpentries]
 ---
 
 We are now taking expressions of interest for this year's <a
