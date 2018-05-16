@@ -7,9 +7,6 @@ title: Alejandra Gonzalez-Beltran
     width: 150px;
     height: 150px;"/></center>
 
-
-<div class="row">
-<div class="col-md-8 col-sm-8">
 <p>
 Alejandra is a Research Lecturer at the University of <a href="http://www.oerc.ox.ac.uk/">Oxford e-Research Centre</a>
 and a Junior Research Fellow at <a href="http://kellogg.ox.ac.uk/">Kellogg College</a>, Oxford, UK.
@@ -27,17 +24,3 @@ and best practicies for supporting data sharing, re-use and science reproducibil
 More information about Alejandra is available on <a href="http://oerc.ox.ac.uk/people/alejandra" target="_blank">her web page at the Oxford e-Research Centre</a>, <a href="http://uk.linkedin.com/in/agbeltran" target="_blank">LinkedIn</a> or <a href="https://github.com/agbeltran" target="_blank">Github</a>.</p>
 
 <a href="https://twitter.com/alegonbel" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @alegonbel</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
-
-
-<div class="col-md-4 col-sm-4">
-<p>
-<div style="width:100%;text-align:center"><iframe src="https://orcid.org/static/html/widget.html?orcid=0000-0003-3499-8262&t=bac67a&locale=en" frameborder="0" height="310" width="210px" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe></div>
-
-</p>
-</div>
-
-
-
-</div>
