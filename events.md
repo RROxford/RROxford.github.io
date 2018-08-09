@@ -22,18 +22,21 @@ discuss.
 <!--- See the event websites for details, including information on how
 to register. -->
 
+### Software Carpentry workshop | September 6--7, 2018
+#### Long Vacation | Trinity Term 2018
+Software Carpentry workshop covering bash, git, R.  
+[https://rroxford.github.io/2018-09-06-oxford/](https://rroxford.github.io/2018-09-06-oxford/)  
+
+## Past events
+
+This is what we have been up to so far.
+
 ### Instructor training | May 24--25, 2018
 #### Week 5 | Trinity Term 2018
 
 <a href="https://carpentries.org/"
 target="_blank">Carpentries</a> instructor training.  
 [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)  
-
-Limited places available --- submit your [expression of interest](./_posts/2018-04-21-instructor-training.md) by April 25, 2018.  
-
-## Past events
-
-This is what we have been up to so far.
 
 ### Software Carpentry workshop | January 9--10, 2018
 #### Week 0 | Hilary Term 2018
