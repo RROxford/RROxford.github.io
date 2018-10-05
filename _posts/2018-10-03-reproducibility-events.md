@@ -27,7 +27,7 @@ organized by Lisa Lodwick and Jasmine Nirody at <a
 href="https://www.asc.ox.ac.uk/" target="_blank">All Souls
 College</a>, Wednesdays 16:30--18:00.
 
-![2018_MT-seminars](../img/2018_MT-seminars-all-souls.jpeg) 
+![2018_MT-seminars](../img/2018_MT-seminars-all-souls.jpg) 
 
 As for our regular activities, we are planning a <a
 href="https://software-carpentry.org/" target="_blank">Software
