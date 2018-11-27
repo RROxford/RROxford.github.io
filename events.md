@@ -17,19 +17,19 @@ discuss.
 
 ## Future events
 
-<!--- More workshops coming soon in 2018! -->
+More workshops coming soon in 2019!
 
 <!--- See the event websites for details, including information on how
 to register. -->
+
+## Past events
+
+This is what we have been up to so far.
 
 ### Software Carpentry workshop | September 6--7, 2018
 #### Long Vacation | Trinity Term 2018
 Software Carpentry workshop covering bash, git, R.  
 [https://rroxford.github.io/2018-09-06-oxford/](https://rroxford.github.io/2018-09-06-oxford/)  
-
-## Past events
-
-This is what we have been up to so far.
 
 ### Instructor training | May 24--25, 2018
 #### Week 5 | Trinity Term 2018
