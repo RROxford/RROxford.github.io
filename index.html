@@ -1,9 +1,105 @@
 ---
 layout: page
-redirect: https://ox.ukrn.org/
+title: Welcome!
+use-site-title: true
 ---
 
 <p>
-    This site has moved to <a href="{{ page.redirect }}">{{ page.redirect }}</a>. You can use the browse the <a href="/index_old.html">old site</a>, which is preserved as an archive.
+Reproducible Research Oxford is a project based at
+the <a href="http://www.ox.ac.uk" target="_blank">University of
+Oxford</a>. We aim to lay the groundwork for a culture of research
+reproducibility at the University, focusing on training in the
+effective use of computational tools in research. These tools are
+widely used in some disciplines, and they can enable researchers to
+easily track the process leading from data to results, so that it is
+fully reproducible. However, researchers often lack the opportunities,
+incentives and confidence to make best use of these tools.
 </p>
 
+<p>
+To this end, we have set up a partnership
+with <a href="https://software-carpentry.org/"
+target="_blank">Software Carpentry</a>
+and <a href="http://www.datacarpentry.org/" target="_blank">Data
+Carpentry</a>, non-profit volunteer organisations focused on teaching
+researchers across disciplines the computing and data skills they need
+for effective and reproducible research. We will coordinate and
+deliver a series of Carpentry <a href="/events"
+target="_blank">workshops</a> open to students and staff across the
+University. Additionally, we will train Carpentry instructors based at
+Oxford to build local capacity in this area.
+</p>
+
+<p>
+Find out more <a href="/about">about</a> the project, our past and
+future <a href="/events">events</a>, and how to <a href="/contact">get
+involved</a>!
+</p>
+
+<!---
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+
+    <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <img src="{{ post.image }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="post-entry">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+---!>
