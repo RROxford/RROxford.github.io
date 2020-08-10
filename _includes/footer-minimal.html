@@ -2,15 +2,11 @@
   <div class="text-muted">
 	{{ site.author.name }}
 	&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-	{% if page.date %}
-	  {{ page.date }}
-	{% else %}
-	  {{ site.time | date: '%Y' }}
-	{% endif %}
+	2018
 	
     {% if site.url-pretty %}
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+    <a href="{{ site.url }}/old-index">{{ site.url-pretty }}old-index</a>
     {% endif %}	
   </div>
 </footer>

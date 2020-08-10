@@ -8,9 +8,9 @@
         <span class="icon-bar"></span>
       </button>
       {% if site.title-img %}
-        <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}"><img src="{{ site.title-img }}"/></a>
+        <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}/index-old.html"><img src="{{ site.title-img }}"/></a>
       {% else %}
-        <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
+        <a class="navbar-brand" href="{{ site.url }}/old-index">{{ site.title }}</a>
       {% endif %}
     </div>
 
@@ -40,7 +40,7 @@
 	{% if page.image and (layout.show-avatar or page.show-avatar) %}
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="{{ site.url }} ">
+	    <a href="{{ site.url }}/old-index ">
 	      <img class="avatar-img" src="{{ page.image | prepend: site.baseurl | replace: '//', '/' }}" />
 		</a>
 	  </div>
@@ -48,7 +48,7 @@
 	{% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="{{ site.url }} ">
+	    <a href="{{ site.url }}/old-index ">
 	      <img class="avatar-img" src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" />
 		</a>
 	  </div>
@@ -56,4 +56,11 @@
 	{% endif %}
 
   </div>
+  {% unless page.redirect %}
+  <div style="position: absolute; text-align: center; background-color: white; width: 100%; border: 2px solid black; padding: .25em;">
+      <p style="margin: 0">
+          This site has moved to <a href="https://ox.ukrn.org/" style="font-weight: bold;">https://ox.ukrn.org/</a>. This version is retained as an archive.
+      </p>
+  </div>
+  {% endunless %}
 </nav>
