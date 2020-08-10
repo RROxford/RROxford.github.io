@@ -10,7 +10,7 @@
       {% if site.title-img %}
         <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}"><img src="{{ site.title-img }}"/></a>
       {% else %}
-        <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
+        <a class="navbar-brand" href="{{ site.url }}/index_old.html">{{ site.title }}</a>
       {% endif %}
     </div>
 
@@ -57,3 +57,10 @@
 
   </div>
 </nav>
+{% if not page.redirect %}
+<div>
+    <p class="text-align: center; background-color: white; width: 100%; border: 2px solid black; padding: .25em;">
+        This site has moved to <a href="https://ox.ukrn.org/" style="font-weight: bold;">https://ox.ukrn.org/</a>. This version is retained as an archive.
+    </p>
+</div>
+{% endif %}
